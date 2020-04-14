@@ -39,7 +39,7 @@ if (empty($lang) || !is_array($lang))
 
 $lang = array_merge($lang, array(
 	'MCP_FLAIR'			=> 'Profiel Flair',
-	'MCP_FLAIR_EXPLAIN'	=> 'Hier kun je %s’s profiel flair beheren.<ul><li>Klik de <b>Set</b> button om de telling in te stellen op de opgegeven waarde.</li><li>Klik de <b>&times;</b> button om een ​​item te verwijderen.</li><li>Klik de <b>+</b> button om een ​​item toe te voegen met de opgegeven telling.</li></ul>',
+	'MCP_FLAIR_EXPLAIN'	=> 'Hier kun je %s’s profiel flair beheren.<ul><li>Klik de <b>Stel in</b> button om de telling in te stellen op de opgegeven waarde.</li><li>Klik de <b>&times;</b> button om een ​​item te verwijderen.</li><li>Klik de <b>+</b> button om een ​​item toe te voegen met de opgegeven telling.</li></ul>',
 
 	'MCP_FLAIR_USER'	=> 'Beheer gebruiker’s flair',
 	'MCP_FLAIR_FRONT'	=> 'Voorpagina',

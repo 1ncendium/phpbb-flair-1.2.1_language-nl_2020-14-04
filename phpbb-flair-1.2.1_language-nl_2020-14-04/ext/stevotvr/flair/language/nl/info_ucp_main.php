@@ -39,7 +39,7 @@ if (empty($lang) || !is_array($lang))
 
 $lang = array_merge($lang, array(
 	'UCP_FLAIR'			=> 'Beheer profiel flair',
-	'UCP_FLAIR_EXPLAIN'	=> 'Hier kun je jouw profielflair beheren.<ul><li>Klik de <i class="fa fa-star"></i>/<i class="fa fa-star-o"></i> button om een item als favoriet / onfavoriet markeren. Favorieten worden als eerste weergegeven in uw profiel.</li><li>Klik de<b>&times;</b> button om een ​​item te verwijderen. Deze optie is mogelijk niet voor alle items beschikbaar.</li><li>De <b>Beschikbare Flair</b> paneel toont items die je aan jouw eigen profiel kunt toevoegen.</li></ul>',
+	'UCP_FLAIR_EXPLAIN'	=> 'Hier kun je jouw profielflair beheren.<ul><li>Klik de <i class="fa fa-star"></i>/<i class="fa fa-star-o"></i> button om een item als favoriet / onfavoriet markeren. Favorieten worden als eerste weergegeven op jouw profiel.</li><li>Klik de<b>&times;</b> button om een ​​item te verwijderen. Deze optie is mogelijk niet voor alle items beschikbaar.</li><li>De <b>Beschikbare Flair</b> paneel toont items die je aan jouw eigen profiel kunt toevoegen.</li></ul>',
 
 	'UCP_USER_FLAIR'			=> 'Jouw flair',
 	'UCP_FLAIR_AVAILABLE'		=> 'Beschikbare flair',
