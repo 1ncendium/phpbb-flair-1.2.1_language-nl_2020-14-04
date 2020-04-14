@@ -1,0 +1,13 @@
+Subject: Je hebt nieuwe flair gekregen
+
+Hallo {USERNAME},
+
+Je hebt zojuist de flair "{FLAIR_NAME}" op "{SITENAME}" ontvangen!
+
+Bezoek de onderstaande link voor meer informatie over dit flair-item:
+{U_FLAIR}
+
+Om je flair te zien, bezoek je je profiel door op de volgende link te klikken:
+{U_PROFILE}
+
+{EMAIL_SIG}
